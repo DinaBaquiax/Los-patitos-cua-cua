@@ -3,7 +3,9 @@ public class CódigoFuente {
         // Imprime un saludo
         System.out.println("Hola, mundo en 3d!");
         System.out.println("Hola, mundo en 3d!");
-        
+
+        System.out.println("Hola, mundo soy nuevo en java!");
+
         // Declara dos números
         int numero1 = 5;
         int numero2 = 7;
